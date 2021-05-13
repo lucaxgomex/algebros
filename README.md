@@ -1,2 +1,2 @@
 # algebros
-Blog for sharing and create mathematical content.
+Blog for sharing and creating mathematical content.
